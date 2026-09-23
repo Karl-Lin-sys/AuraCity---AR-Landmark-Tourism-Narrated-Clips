@@ -1,0 +1,6 @@
+{
+  "name": "AuraCity - AR Landmark Tourism & Narrated Clips",
+  "description": "Capture city landmarks to identify architecture, search verified history, and experience immersive AR narrated clips with interactive 3D telemetry.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
